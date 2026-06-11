@@ -103,7 +103,7 @@
 ---
 
 <p align="center">
-  <strong>CODExRAAZ</strong>
+  <strong>CodexRaaz</strong>
 </p>
 
 <p align="center">
