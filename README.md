@@ -1,18 +1,14 @@
 
 
-<h1 align="center">CODExRAAZ</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=CodexRaaz&fontSize=90&animation=twinkling&fontAlignY=40&desc=AI%20Automation%20|%20Development%20|%20SEO%20&descAlignY=60&descSize=25" alt="Massive Banner" width="100%" />
+</div>
 
-<p align="center">
-  <strong>AI Automation Builder • Developer • Digital Creator</strong>
-</p>
-
-<p align="center">
-  📍 Jaipur, India
-</p>
-
-<p align="center">
-  Unlock Knowledge Through Technology
-</p>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=50&lines=>_Initializing+System...;>_Loading+Developer+Profile...;>_Access+Granted:+Welcome+to+my+Matrix" alt="Typing SVG" />
+  </a>
+</div>
 
 ---
 
@@ -80,19 +76,7 @@
 
 ---
 
-## 🚀 Featured Projects
 
-### 🤖 AI Automation
-
-Coming Soon
-
-### 🌐 Web Development
-
-Coming Soon
-
-### 📈 SEO Tools
-
-Coming Soon
 
 ### ⚡ Productivity Systems
 
